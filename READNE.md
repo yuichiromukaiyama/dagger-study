@@ -9,3 +9,5 @@
 
 use this template<br>
 https://github.com/${your-account-id}/dagger-study/generate
+
+test
